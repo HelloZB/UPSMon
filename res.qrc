@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>emulator.png</file>
+        <file>exit.png</file>
+        <file>sett.png</file>
+    </qresource>
+</RCC>
